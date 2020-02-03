@@ -24,7 +24,8 @@ Con el fin de probar una aplicación web, se requiere montar un servidor con Cen
  
  En este taller, se descarga la ISO versión 7 de CentOS Linux, disponible en: https://wiki.centos.org/Download
  
- 
+ ![ISO CentOS](/taller01/imagenes/ISOCentOS.png)
+
  2. Cree una máquina virtual en virtualbox e Instale CentOS en ella. (Instalación estándar de centOS)
  
  3. Acceda a la máquina CentOS e instale NGINX.
