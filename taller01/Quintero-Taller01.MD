@@ -26,7 +26,16 @@ Con el fin de probar una aplicación web, se requiere montar un servidor con Cen
  
  ![ISO CentOS](/taller01/imagenes/ISOCentOS.png)
 
- 2. Cree una máquina virtual en virtualbox e Instale CentOS en ella. (Instalación estándar de centOS)
+ 2. Cree una máquina virtual en VirtualBox e Instale CentOS en ella. (Instalación estándar de centOS)
+ 
+ VirtualBox es un potente producto de virtualización x86 y AMD64/Intel64 para uso empresarial y doméstico. [2]
+ 
+ Una vez descargado (disponible en: https://www.virtualbox.org/) e iniciado VirtualBox, se da click en "Nueva", en lo que se debe colocar un nombre descriptivo de la nueva máquina virtual:
+ 
+ ![Crear máquina](/taller01/imagenes/CrearMaquina.png)
+ 
+ 
+ 
  
  3. Acceda a la máquina CentOS e instale NGINX.
  
@@ -41,3 +50,4 @@ Con el fin de probar una aplicación web, se requiere montar un servidor con Cen
 
 
 [1] CentOS Project. Retrieved 2 February 2020, from https://www.centos.org/
+[2] Oracle VM VirtualBox. Retrieved 2 February 2020, from https://www.virtualbox.org/
