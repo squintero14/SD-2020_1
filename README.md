@@ -1,2 +1,2 @@
 # SD-2020_1
-Repositorio para el curso Sistemas Distribuido
+Repositorio para el curso Sistemas Distribuidos
