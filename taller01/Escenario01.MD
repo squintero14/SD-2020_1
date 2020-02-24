@@ -1,8 +1,8 @@
 # Taller 01
 
-# Car Lewis Álvarez Cossio -
-# Andrés Felipe Aguirre Aguilar - 
-# Juan Sebastián Quintero Yoshioka - A00310448
+## Car Lewis Álvarez Cossio - A00310516
+## Andrés Felipe Aguirre Aguilar - 
+## Juan Sebastián Quintero Yoshioka - A00310448
 
 ## Infraestructura como código
 ## Objetivos:
@@ -66,9 +66,9 @@ Con el fin de probar una aplicación web, se requiere montar un servidor con Cen
   
   d. Si se está ejecutando un firewall, se debe ejecutar los siguientes comandos para permitir el tráfico HTTP y HTTPS:
   
-  <code> sudo firewall-cmd --permanent --zone=public --add-service=http 
- sudo firewall-cmd --permanent --zone=public --add-service=https
- sudo firewall-cmd --reload </code>
+  <code> sudo firewall-cmd --permanent --zone=public --add-service=http </code> <br>
+  <code> sudo firewall-cmd --permanent --zone=public --add-service=https </code> <br>
+  <code>sudo firewall-cmd --reload </code>
  
   e. Para finalizar, podemos verificar que Nginx está ejecutándose:
   
@@ -98,9 +98,8 @@ Con el fin de probar una aplicación web, se requiere montar un servidor con Cen
 
 ### Dificultades encontradas en el proceso
 
-- La principal dificultad se presentó en la instalación de CentOS7, primero, no teniamos la ISO de instalación, por lo que se tuvo que esperar a que esta se descarga. Luego, el proceso de configuración es lento, lo que significó un mayor tiempo de espera. Aproximadamente, entre la descarga y configuración nos demoró una hora.
-- No sabiamos configurar VirtualBox en red solo anfitrión, por lo que al princiío no podiamos acceder al servidor Nginx desde la máquina local. 
-Las dificultades se presentaron al momento de realizar el procedimiento en Centos ya que como resultado no se podía acceder al servidor NGIX desde la máquina local. 
+- La principal dificultad se presentó en la instalación de CentOS7, primero, no teniamos la ISO de instalación, por lo que se tuvo que esperar a que esta se descargara. Luego, el proceso de configuración es lento, lo que significó un mayor tiempo de espera. Aproximadamente, entre la descarga y configuración nos demoró una hora.
+- No sabiamos configurar VirtualBox en red solo anfitrión, por lo que al principio no podiamos acceder al servidor Nginx desde la máquina local. 
 
 ### ¿Es apropiado o no para desplegar réplicas en un ambiente de pruebas?
 
