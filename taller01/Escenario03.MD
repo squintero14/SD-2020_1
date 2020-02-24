@@ -84,7 +84,7 @@ Para realizar la aplicación, nos basamos en el siguiente video: https://youtu.b
  
  ![App web inicial](/taller01/imagenes/AppWebInicial.png)
  
- Ejemplo de insersión:
+ Ejemplo de inserción:
  
  ![Ejemplo](/taller01/imagenes/EjemploNodeJS.png)
  
@@ -92,5 +92,5 @@ Para realizar la aplicación, nos basamos en el siguiente video: https://youtu.b
  
  ![SSH ServerB](/taller01/imagenes/sshServerB.png)
   
-[1] https://www.genbeta.com/desarrollo/mongodb-que-es-como-funciona-y-cuando-podemos-usarlo-o-no <br>
-[2] https://nodejs.org/es/
+[1] GenBeta. Retrieved 23 February 2020, from https://www.genbeta.com/desarrollo/mongodb-que-es-como-funciona-y-cuando-podemos-usarlo-o-no <br>
+[2] NodeJS. Retrieved 23 February 2020, from https://nodejs.org/es/
