@@ -26,7 +26,7 @@ Con el fin de probar una aplicación web, se requiere montar un servidor con Cen
  
  En este taller, se descarga la ISO versión 7 de CentOS Linux, disponible en: https://wiki.centos.org/Download
  
- ![ISO CentOS](/taller01_Aguirre-Alvarez-Quintero_Aguirre-Alvarez-Quintero/imagenes/ISOCentOS.png)
+ ![ISO CentOS](/taller01_Aguirre-Alvarez-Quintero/imagenes/ISOCentOS.png)
 
  2. Cree una máquina virtual en VirtualBox e Instale CentOS en ella. (Instalación estándar de centOS)
  
@@ -34,15 +34,15 @@ Con el fin de probar una aplicación web, se requiere montar un servidor con Cen
  
  Una vez descargado (disponible en: https://www.virtualbox.org/) e iniciado VirtualBox, se da click en "Nueva", en lo que se debe colocar un nombre descriptivo de la nueva máquina virtual, tamaño de disco duro y tamaño en memoria:
  
- ![Crear máquina](/taller01_Aguirre-Alvarez-Quintero_Aguirre-Alvarez-Quintero/imagenes/CrearMaquina.png)
+ ![Crear máquina](/taller01_Aguirre-Alvarez-Quintero/imagenes/CrearMaquina.png)
  
- ![Disco duro](/taller01_Aguirre-Alvarez-Quintero_Aguirre-Alvarez-Quintero/imagenes/DiscoDuro.png)
+ ![Disco duro](/taller01_Aguirre-Alvarez-Quintero/imagenes/DiscoDuro.png)
  
- ![Tamaño en memoria](/taller01_Aguirre-Alvarez-Quintero_Aguirre-Alvarez-Quintero/imagenes/TamahnioMemoria.png)
+ ![Tamaño en memoria](/taller01_Aguirre-Alvarez-Quintero_/imagenes/TamahnioMemoria.png)
  
  La configuración es la siguiente:
  
- ![Resumen configuración](/taller01_Aguirre-Alvarez-Quintero_Aguirre-Alvarez-Quintero/imagenes/ResumenConfiguracion.png)
+ ![Resumen configuración](/taller01_Aguirre-Alvarez-Quintero/imagenes/ResumenConfiguracion.png)
  
  Al final del proceso de instalación, se debe especificar un usuario y contraseña:
  
