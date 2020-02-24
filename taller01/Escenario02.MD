@@ -1,8 +1,8 @@
 # Taller 01
 
-## Car Lewis Álvarez Cossio - A00310516
-## Andrés Felipe Aguirre Aguilar - 
-## Juan Sebastián Quintero Yoshioka - A00310448
+### Car Lewis Álvarez Cossio - A00310516
+### Andrés Felipe Aguirre Aguilar - A00329792
+### Juan Sebastián Quintero Yoshioka - A00310448
 
 ## Infraestructura como código
 ## Objetivos:
