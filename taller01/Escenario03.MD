@@ -91,6 +91,15 @@ Para realizar la aplicación, nos basamos en el siguiente video: https://youtu.b
  Por último, verificamos que se pueda realizar SSH a un servidor desde otro servidor:
  
  ![SSH ServerB](/taller01/imagenes/sshServerB.png)
-  
+ 
+ ### Dificultades encontradas en el proceso.
+ - La primer dificultad que se nos presentó fue realizar la aplicación con Node JS y MongoDB, puesto que ninguno de los tres sabiamos de estos temas. Fue decisión del equipo utilizar Node JS y MongoDB para aprender algo nuevo, por lo tanto, es una dificultad que esperabamos que sucediera y la forma de solucionarlo fue buscar documentación y videos como guías.
+ - La mayor dificultad en todo el proceso fue realizar correctamente el aprovisionamiento de ambas máquinas virtuales, puesto que realizarlo de forma local (instalar dependencias, por ejemplo) fue sencillo, pero a la hora de realizar el archivo .yml se presentaron muchos problemas, nose reconocía el host para realizar el aprovisonamiento, no se instalaban los paquetes porque no se colocaba bien la tarea, no se ejecutaban los servicios instalados, se quedaba bloqueado en el aprovisionamiento o aparecían otro tipo de errores.
+ 
+ ### Conclusiones acerca de los hallazgos y aprendizajes obtenidos en el desarrollo del laboratorio.
+ 
+ Una vez se tiene claro cómo se configura una máquina virtual mediante el archivo Vagrantfile, cómo funciona el aprovisionamiento con Ansible y para qué sirven los demás archivos mencionados en esta guía, el concepto de infraestructura como código se entiende fácilmente. Además, se puede ver sus ventajas, como por ejemplo, tener una plantilla para que se pueda reutilizarla varias veces, eliminando la necesidad de realizar configuraciones manuales.
+
+### Bibliografía
 [1] GenBeta. Retrieved 23 February 2020, from https://www.genbeta.com/desarrollo/mongodb-que-es-como-funciona-y-cuando-podemos-usarlo-o-no <br>
 [2] NodeJS. Retrieved 23 February 2020, from https://nodejs.org/es/
