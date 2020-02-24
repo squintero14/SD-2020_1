@@ -108,7 +108,7 @@ Esta forma de crear un ambiente de pruebas no nos parece apropiada, puesto que e
 
 Por lo tanto, para realizar nuestra reflexión, consideramos que debemos de crear o usar sistemas que nos permita crear instrucciones y procesos para disminuir la interración que tenemos en este tipo de tareas, es decir, infraestructura como código. La infraestructura como código nos permite gestionar las máquinas virtuales, eliminando esa necesidad de configuración manual, permitiendo implementar una máquina o muchas con el mismo código. Esto se traduce, por ejemplo, en ahorrarnos el tiempo que le tuvimos que dedicar a la instalación y configuración de CentOS7 con Nginx, y, en un futuro, si se desea desplegar una réplica, no tener que perder más tiempo.
 
-[1] CentOS Project. Retrieved 2 February 2020, from https://www.centos.org/
-[2] Oracle VM VirtualBox. Retrieved 2 February 2020, from https://www.virtualbox.org/
-[3] Digital Ocean. Retrieved 23 February 2020, from https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-centos-7
-[4] Condor.depaul.edu. Retrieved 23 February 2020, from https://condor.depaul.edu/glancast/443class/docs/vbox_host-only_setup.html
+[1] CentOS Project. Retrieved 2 February 2020, from https://www.centos.org/ <br>
+[2] Oracle VM VirtualBox. Retrieved 2 February 2020, from https://www.virtualbox.org/ <br>
+[3] Digital Ocean. Retrieved 23 February 2020, from https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-centos-7 <br>
+[4] Condor.depaul.edu. Retrieved 23 February 2020, from https://condor.depaul.edu/glancast/443class/docs/vbox_host-only_setup.html <br>
